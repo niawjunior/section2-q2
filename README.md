@@ -1,3 +1,11 @@
+### Default
+![alt](1.png)
+
+### Search
+![alt](2.png)
+
+### No result
+![alt](3.png)
 # AngularCategoriesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
